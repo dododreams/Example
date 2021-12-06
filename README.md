@@ -1,2 +1,2 @@
-# Readme
+# Example
 hello world
